@@ -1,0 +1,6 @@
+{
+  "name": "Lyric Studio Pro",
+  "description": "An advanced AI-powered songwriting and lyrics workshop for Khmer, English, and Bilingual artists, including MV storyboarding, producer guidance, and album artwork generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
